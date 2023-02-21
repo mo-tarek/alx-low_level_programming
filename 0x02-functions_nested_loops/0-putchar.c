@@ -1,4 +1,3 @@
-
 #include "main.h"
 /**
  * main - prints _putchar, fllowd by a new linees
